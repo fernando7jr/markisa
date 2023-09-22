@@ -1,0 +1,36 @@
+{
+    "name": "markisa",
+    "version": "0.0.1",
+    "description": "",
+    "type": "commonjs",
+    "main": "index.js",
+    "module": "index.mjs",
+    "scripts": {
+        "test": "ava"
+    },
+    "keywords": [
+        "mongodb",
+        "orm",
+        "model",
+        "document",
+        "db",
+        "node",
+        "typescript"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fernando7jr/markisa.git"
+    },
+    "author": "metadeta96",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fernando7jr/markisa/issues"
+    },
+    "homepage": "https://github.com/fernando7jr/markisa#readme",
+    "devDependencies": {
+        "ava": "^5.1.1"
+    },
+    "dependencies": {
+        "mongodb": "^5.8.1"
+    }
+}
